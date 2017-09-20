@@ -1,0 +1,84 @@
+
+h1 {
+	width:1000px;
+	border-radius:5px;
+	height:40px;
+	text-align: center;
+	font-style:bold;
+	text-transform:uppercase;
+	color:white;
+	background-color:black;
+	margin:20px;
+	font-size:25px;
+	padding-top:10px;
+
+}
+
+
+
+h2 { 
+	color: black;
+	font-family: 'Raleway',sans-serif;
+	font-size:28px;
+	font-weight: 500;
+	text-align: center;
+	text-transform: uppercase;
+	height:20px;
+	font-style:bold;
+	
+}
+.education {
+	height: 400px;
+	width: 900px;
+	margin:auto;
+
+	padding-left: 100px;
+}
+
+
+
+h4 {
+	font-size:15px;
+	
+}
+
+
+p {
+	color:black;
+	line-height: 32px;
+	font-family: 'Rale-way', sans-serif;
+	font-size: 18px;
+	font-weight:100;
+}
+
+
+
+body {
+	font-family: 'Raleway',sans-serif;
+}
+
+#navigation {
+	text-align:center;
+		
+	
+}
+
+#navigation a {
+	text-decoration:none;
+	
+}
+ul li a {
+	text-decoration:none;
+	font-size:10px;
+}
+
+.all {
+
+	border-top:1px dotted black;
+	height:2000px;
+	width:700px;
+	margin:auto;
+	padding:20px 5px 5px 5px;
+	border-radius:15px;
+
+}

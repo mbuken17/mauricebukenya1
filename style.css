@@ -1,53 +1,111 @@
 
-
- h1 {
-	color: Crimson;
-	margin: 0;
+h1 {
+	width:1000px;
+	border-radius:5px;
+	height:40px;
 	text-align: center;
-	text-transform: uppercase;
-	line-height: 1.7em;
-	border-size:
+	font-style:bold;
+	text-transform:uppercase;
+	color:white;
+	background-color:black;
+	margin:20px;
+	font-size:25px;
+	padding-top:10px;
 
- }
+}
 
-h2 { 
-	color: #E4BB97;
-	font-family: 'Raleway',sans-serif;
-	font-size:28px;
-	font-weight: 500;
-	text-align: left;
-	text-transform: uppercase;
+.jobsearch {
+	width:350px;
+	height:70px;
+	font-size: 30px;
+	padding-top: 20px;
+	padding-left:130px;
+	color: blue;
+	text-align:center;
 	
 }
 
-ul {
-	margin: 0 auto;
-	padding: 0;
-	width: 97%;
+.jobsearch p {
+	
+	color: darkblue;
+	
+}
+
+
+body {
+	font-family: 'Raleway',sans-serif;
+}
+
+img.picture  {
+	width: 80px;
+	height: 22px;
+	padding-top:150px;
+	padding-right:100px
+	
+	
+}
+
+
+#navigation {
+	text-align:center;
+		
+	
+}
+
+#navigation a {
+	text-decoration:none;
+	
 }
 
 p {
-	color:#444444;
+	color:black;
 	line-height: 32px;
 	font-family: 'Rale-way', sans-serif;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight:100;
 }
 
-a {
-	color:#214E34;
-	font-family: 'Raleway', sans-serif;
-	font-size: 13px;
-	font-weight: 900;
-	text-align: left;
-	text-transform:uppercase;
-	letter-spacing:2px;	
+.right {
+	
+	float:right;
+	height: 2000px;
+	width: 740px;
+	
 	
 }
-body {
-	background-color: #FFF;	
+
+.left {
+	border:1px dotted black;
+	border-radius:20px;
+	float:left;
+	display:block;
+	height: 440px;
+	width: 210px;
+	padding:10px;
+	margin-top:20px;
+	text-decoration: none;
+
 }
 
-#subheading {
-	font-style: italic;
+.all {
+
+	border-top:1px dotted black;
+	height:400px;
+	width:1000px;
+	margin:auto;
+	padding:20px 5px 5px 5px;
+	border-radius:15px;
+	
+
+}
+
+img.pic {
+	height: 220px;
+	width: 210px;
+	
+}
+
+ul li a {
+	text-decoration:none;
+	font-size:10px;
 }

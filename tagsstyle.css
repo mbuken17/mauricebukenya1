@@ -1,0 +1,67 @@
+h1 {
+	width:1000px;
+	border-radius:5px;
+	height:40px;
+	text-align: center;
+	font-style:bold;
+	text-transform:uppercase;
+	color:white;
+	background-color:black;
+	margin:20px;
+	font-size:25px;
+	padding-top:10px;
+
+}
+
+
+body {
+	font-family: 'Raleway',sans-serif;
+}
+
+
+p {
+	color:black;
+	line-height: 32px;
+	font-family: 'Rale-way', sans-serif;
+	font-size: 18px;
+	font-weight:100;
+}
+
+
+.all {
+
+	border-top:1px dotted black;
+	height:400px;
+	width:900px;
+	margin:auto;
+	padding:20px 5px 5px 5px;
+	border-radius:15px;
+	
+
+}
+
+#navigation {
+	text-align:center;
+		
+	
+}
+#navigation a {
+	text-decoration:none;
+	
+}
+
+
+ul li a {
+	text-decoration:none;
+	font-size:10px;
+}
+
+.list li {
+	width:70px;
+	display: inline-block;
+	padding-right:100px;
+	border:1px solid black;
+	margin: 2px;
+	background-color: Gainsboro;
+	
+}

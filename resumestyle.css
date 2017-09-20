@@ -1,0 +1,60 @@
+h1 {
+	width:1000px;
+	border-radius:5px;
+	height:40px;
+	text-align: center;
+	font-style:bold;
+	text-transform:uppercase;
+	color:white;
+	background-color:black;
+	margin:20px;
+	font-size:25px;
+	padding-top:10px;
+
+}
+
+#navigation {
+	text-align:center;
+		
+	
+}
+
+#navigation a {
+	text-decoration:none;
+	
+}
+ul li a {
+	text-decoration:none;
+	font-size:10px;
+}
+
+.download {
+
+	padding-top:50px;
+	padding-left:300px;
+}
+
+.contact {
+	
+	padding-top: 50px;
+	text-align:center;
+}
+
+.all {
+
+	border-top:1px dotted black;
+	height:2000px;
+	width:700px;
+	margin:auto;
+	padding:20px 5px 5px 5px;
+	border-radius:15px;
+
+}
+
+p {
+	color:black;
+	line-height: 32px;
+	font-family: 'Rale-way', sans-serif;
+	font-size: 18px;
+	font-weight:100;
+}

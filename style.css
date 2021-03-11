@@ -74,7 +74,9 @@ p {
 	float:right;
 	height: 2000px;
 	width: 740px;
-	
+	font-family: 'Rale-way', sans-serif;
+	font-size: 42px;
+	color:white;
 	
 }
 
@@ -100,7 +102,7 @@ p {
 	padding:20px 5px 5px 5px;
 	border-radius:15px;
 	background: rgb(34,193,195);
-        background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,222,253,0.4416141456582633) 100%);
+        background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,184,253,0.34637605042016806) 100%);
 	
 }
 

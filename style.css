@@ -95,13 +95,13 @@ p {
 
 	border-top:1px dotted black;
 	height:400px;
-	width:1000px;
+	width:1800px;
 	margin:auto;
 	padding:20px 5px 5px 5px;
 	border-radius:15px;
-	background-color:blue;
+	background: rgb(34,193,195);
+        background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(45,222,253,0.4416141456582633) 100%);
 	
-
 }
 
 img.pic {
